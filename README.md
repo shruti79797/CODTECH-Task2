@@ -25,3 +25,4 @@ Verilog Coding:Wrote the verilog code for the FSM,including:`module` declaration
                                                              Output logic.
 Simulation and Verification: Wrote a testbench to simulate the FSM.
                              Applied different input sequences and verified it.
+https://drive.google.com/drive/folders/1wzongW75TGekrtFRFV9MBgvBN2rKIZu0
